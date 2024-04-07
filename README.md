@@ -6,7 +6,8 @@ This is a Streamlit application that allows users to upload a resume (in PDF for
 Clone the repository :
 
 bash
-git clone https://github.com/Riteshmahale1804/ATS-Resume-Expert.git
+git clone https://github.com/Riteshmahale1804/ATS-Resume-Expert.git 
+
 pip install -r requirements.txt
 
 
