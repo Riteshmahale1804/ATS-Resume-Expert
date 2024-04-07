@@ -26,9 +26,13 @@ Run the Streamlit app:
 streamlit run app.py
 
 1.Open your web browser and navigate to the provided URL.
+
 2.Input the job description and upload a resume in PDF format.
+
 3.Click on the "Tell Me About the Resume" button to generate a response based on the resume and job description.
+
 4.Optionally, click on the "Percentage Match" button to determine the percentage match between the resume and job description.
+
 
 
 
